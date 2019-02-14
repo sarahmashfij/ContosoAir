@@ -1,5 +1,5 @@
 
-
+[![Build Status](https://dev.azure.com/smashfej/ContosoAir/_apis/build/status/sarahmashfij.ContosoAir%20(1)?branchName=master)](https://dev.azure.com/smashfej/ContosoAir/_build/latest?definitionId=3&branchName=master)
 
 # Microsoft.Github CI Demo
 
